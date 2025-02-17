@@ -13,7 +13,6 @@
 - [jekyll-theme-leap-day](https://pages-themes.github.io/leap-day/)
 - [jekyll-theme-merlot](https://pages-themes.github.io/merlot/)
 - [jekyll-theme-midnight](https://pages-themes.github.io/midnight/)
-- [jekyll-theme-minima](https://pages-themes.github.io/minima/)
 - [jekyll-theme-minimal](https://pages-themes.github.io/minimal/)
 - [jekyll-theme-modernist](https://pages-themes.github.io/modernist/)
 - [jekyll-theme-slate](https://pages-themes.github.io/slate/)
