@@ -1,5 +1,5 @@
 ## My Notes Repo
-[Review for past 5 weeks](comp1238.md)
+[Midterm review for past 5 weeks](comp1238.md)
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
