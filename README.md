@@ -21,3 +21,26 @@
 
 ## Assignment 1
 [Link to comp1238.md](comp1238.md)
+
+## School Schedule
+- **Monday**
+  - 10:00 - [COMP1236 - COMP Logic](https://learn.georgebrown.ca/d2l/home/337951)
+  - 13:00 - [COMP1238 - DATA MGMNT](https://learn.georgebrown.ca/d2l/home/334969)
+  - 16:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
+ 
+- **Tuesday**
+  - 10:00 - [COMP1162 - Math](https://learn.georgebrown.ca/d2l/home/330725)
+  - 18:00 - [COMP1234 - Web DEV](https://learn.georgebrown.ca/d2l/home/342908)
+
+- **Wednesday**
+  - 15:00 - [COMP1234 - Web DEV](https://learn.georgebrown.ca/d2l/home/342908)
+
+- **Thursday**
+  - 10:00 - [COMP1238 - DATA MGMNT](https://learn.georgebrown.ca/d2l/home/334969)
+  - 12:00 - [COMP1162 - Math](https://learn.georgebrown.ca/d2l/home/330725)
+  - 14:00 - [COMP1236 - COMP Logic](https://learn.georgebrown.ca/d2l/home/337951)
+
+- **Friday**
+  - 14:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/335096)
+ 
+
